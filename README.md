@@ -1,3 +1,7 @@
 # Palindrome
-To check if a string is palindrome
+To check if a string is palindrome..
 [javaScript]
+----------------------------------
+Return true if the given string is a palindrome. Otherwise, return false.
+
+A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
